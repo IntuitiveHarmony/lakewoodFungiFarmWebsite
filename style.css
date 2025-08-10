@@ -88,6 +88,7 @@ section {
 ul {
   background-color: var(--color-accent-bg);
   padding-bottom: 1.2em;
+  padding-right: 2em;
   border-radius: var(--radius);
 }
 
