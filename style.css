@@ -1,7 +1,7 @@
 :root {
   /* ===== COLOR THEME ===== */
   /* Main accent color (buttons, header bg) */
-  --color-primary: rgb(107, 112, 92);
+  --color-primary: #6b705c;
   /* Hover/darker shade */
   --color-primary-dark: #505444;
   /* Page background */
@@ -47,7 +47,7 @@ body {
 }
 
 header {
-  background: rgb(0, 0, 0);
+  background: rgb(8, 8, 8);
   /* Multiple backgrounds: overlay first, then image */
   background-image: linear-gradient(
       rgba(107, 112, 92, var(--overlay-opacity)),
